@@ -4,11 +4,11 @@
 
 ## Prerequisites
 
--   [Ruby](https://github.com/ga-wdi-boston/ruby)
--   [Ruby Hash](https://github.com/ga-wdi-boston/ruby-hash)
--   [JavaScript Reference Types](https://github.com/ga-wdi-boston/js-reference-types)
--   [JavaScript Objects: Referencing Own Properties](https://github.com/ga-wdi-boston/js-objects-this)
--   [JavaScript Constructors](https://github.com/ga-wdi-boston/js-objects-constructors)
+-   [Ruby](https://git.generalassemb.ly/ga-wdi-boston/ruby)
+-   [Ruby Hash](https://git.generalassemb.ly/ga-wdi-boston/ruby-hash)
+-   [JavaScript Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
+-   [JavaScript Objects: Referencing Own Properties](https://git.generalassemb.ly/ga-wdi-boston/js-objects-this)
+-   [JavaScript Constructors](https://git.generalassemb.ly/ga-wdi-boston/js-objects-constructors)
 
 ## Objectives
 
@@ -30,10 +30,10 @@ By the end of this, developers should be able to:
 1.  Follow the directions given in [`study.md`](study.md).
 1.  When finished, push to your fork and submit a pull request.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
-requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
