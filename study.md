@@ -9,23 +9,24 @@ process what you've read. Please do not respond with direct quotes from source
 material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
--   Ruby-Doc.org
-    -   [Hash#[]](http://ruby-doc.org/core-2.4.1/Hash.html#method-i-5B-5D)
-    -   [Hash#delete](http://ruby-doc.org/core-2.4.1/Hash.html#method-i-5B-5D)
--   [Ruby Programming / Syntax / Literals - Interpolation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#Interpolation)
--   Mozilla Developer Network
-    -   [Working with objects - (Deleting properties)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
-    -   [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-    -   [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+- Ruby-Doc.org
+   - [Hash#[]](http://ruby-doc.org/core-2.4.1/Hash.html#method-i-5B-5D)
+   - [Hash#delete](http://ruby-doc.org/core-2.4.1/Hash.html#method-i-5B-5D)
+- [Ruby Programming / Syntax / Literals - Interpolation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#Interpolation)
+- Mozilla Developer Network
+   - [Working with objects - (Deleting properties)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
+   - [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+   - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## Recommended Readings
 
--   Ruby-Doc.org
-    -   [Class: Hash](http://ruby-doc.org/core-2.4.1/Hash.html)
-    -   [Class: Symbol](http://ruby-doc.org/core-2.4.1/Symbol.html)
--   Mozilla Developer Network
-    -   [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-    -   [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- Ruby-Doc.org
+   - [Class: Hash](http://ruby-doc.org/core-2.4.1/Hash.html)
+   - [Class: Symbol](http://ruby-doc.org/core-2.4.1/Symbol.html)
+- Mozilla Developer Network
+   - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+   - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ## Creating a Hash in Ruby
 
@@ -43,6 +44,7 @@ should be symbols.
 ```
 
 ## Adding Hash Keys in Ruby
+
 Add a key named `middle name` to `dale` with the string "Alvin" as the value.
 Add another key, `hobbies`, to `dale` with an array as the value. The array
 should contain two strings, "drinking beer" and "conspiracy theories".  The keys
