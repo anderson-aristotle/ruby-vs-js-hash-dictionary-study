@@ -4,31 +4,31 @@
 
 ## Prerequisites
 
--   [Ruby](https://git.generalassemb.ly/ga-wdi-boston/ruby)
--   [Ruby Hash](https://git.generalassemb.ly/ga-wdi-boston/ruby-hash)
--   [JavaScript Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
--   [JavaScript Objects: Referencing Own Properties](https://git.generalassemb.ly/ga-wdi-boston/js-objects-this)
--   [JavaScript Constructors](https://git.generalassemb.ly/ga-wdi-boston/js-objects-constructors)
+- [Ruby](https://git.generalassemb.ly/ga-wdi-boston/ruby)
+- [Ruby Hash](https://git.generalassemb.ly/ga-wdi-boston/ruby-hash)
+- [JavaScript Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
+- [JavaScript Objects: Referencing Own Properties](https://git.generalassemb.ly/ga-wdi-boston/js-objects-this)
+- [JavaScript Constructors](https://git.generalassemb.ly/ga-wdi-boston/js-objects-constructors)
 
 ## Objectives
 
 By the end of this, developers should be able to:
 
--   Compare and contrast Ruby hashes with JavaScript dictionaries.
--   Create a Ruby hash using both the implicit (`{}`) and `new` constructors.
--   Assign a value to, modify, and delete a value in a Ruby hash using a
+- Compare and contrast Ruby hashes with JavaScript dictionaries.
+- Create a Ruby hash using both the implicit (`{}`) and `new` constructors.
+- Assign a value to, modify, and delete a value in a Ruby hash using a
     specified key.
--   Access a value in a Ruby hash using a specified key.
--   Obtain arrays of keys and values from Ruby hashes and JavaScript
+- Access a value in a Ruby hash using a specified key.
+- Obtain arrays of keys and values from Ruby hashes and JavaScript
     dictionaries.
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`study.md`](study.md).
-1.  When finished, push to your fork and submit a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [`study.md`](study.md).
+1. When finished, push to your fork and submit a pull request.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
@@ -37,6 +37,6 @@ requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
