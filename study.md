@@ -12,7 +12,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 - Ruby-Doc.org
   - [Hash#[]](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
-  - [Hash#delete](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
+  - [Hash#delete](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-delete)
 - [Ruby Programming / Syntax / Literals - Interpolation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#Interpolation)
 - Mozilla Developer Network
   - [Working with objects - (Deleting properties)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
