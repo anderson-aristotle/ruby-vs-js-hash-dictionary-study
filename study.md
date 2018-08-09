@@ -11,22 +11,22 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Required Readings
 
 - Ruby-Doc.org
-   - [Hash#[]](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
-   - [Hash#delete](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
+  - [Hash#[]](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
+  - [Hash#delete](http://ruby-doc.org/core-2.5.0/Hash.html#method-i-5B-5D)
 - [Ruby Programming / Syntax / Literals - Interpolation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#Interpolation)
 - Mozilla Developer Network
-   - [Working with objects - (Deleting properties)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
-   - [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
-   - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+  - [Working with objects - (Deleting properties)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Deleting_properties)
+  - [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+  - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## Recommended Readings
 
 - Ruby-Doc.org
-   - [Class: Hash](http://ruby-doc.org/core-2.5.0/Hash.html)
-   - [Class: Symbol](http://ruby-doc.org/core-2.5.0/Symbol.html)
+  - [Class: Hash](http://ruby-doc.org/core-2.5.0/Hash.html)
+  - [Class: Symbol](http://ruby-doc.org/core-2.5.0/Symbol.html)
 - Mozilla Developer Network
-   - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-   - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+  - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ## Creating a Hash in Ruby
 
@@ -72,8 +72,9 @@ value of the key `first_name` is `"Dale"`.
 
 ## Ruby Hash Methods
 
-Using Ruby's Hash methods, set a variable named `dale_keys` equal to all of `dale`'s actual keys.
-Additionally, set a variable named `dale_values` equal to all of `dale`'s values.'
+Using Ruby's Hash methods, set a variable named `dale_keys` equal to all of
+`dale`'s actual keys. Additionally, set a variable named `dale_values` equal to
+all of `dale`'s values.'
 
 ```ruby
 # your answer here
@@ -81,7 +82,9 @@ Additionally, set a variable named `dale_values` equal to all of `dale`'s values
 
 ## Accessing Hash Properties and Values
 
-Using Hash methods and string interpolation in Ruby, create a string using `dale` that equals `"My name is Dale Gribble and I'm an exterminator that enjoys _____."`. The blank should be filled in with one of the hobbies that was added previously.
+Using Hash methods and string interpolation in Ruby, create a string using
+`dale` that equals `"My name is Dale Gribble and I'm an exterminator that enjoys
+_____."`. The blank should be filled in with one of the hobbies that was added previously.
 
 ```ruby
 # your answer here
@@ -131,8 +134,9 @@ of the key `firstName` is `"Hank"`.
 
 ## JavaScript Dictionary Methods
 
-Using JavaScript's Array methods, set a variable named `hankKeys` that is equal to all of `hank`'s
-keys. Additionally, set a variable named `hankValues` that is equal to all of `hanks`'s values.'
+Using JavaScript's Array methods, set a variable named `hankKeys` that is equal
+to all of `hank`'s keys. Additionally, set a variable named `hankValues` that is
+equal to all of `hanks`'s values.'
 
 ```javascript
 // your answer here
@@ -141,7 +145,9 @@ keys. Additionally, set a variable named `hankValues` that is equal to all of `h
 ## Accessing Dictionary Properties and Values
 
 Using provided methods and template literals in JavaScript, create a string
-using `hank` that equals `"My name is Hank Hill and I'm a propane and propane accesories salesman that enjoys ____."`. The blank should be filled in by one of the hobbies you added earlier.
+using `hank` that equals `"My name is Hank Hill and I'm a propane and propane
+accesories salesman that enjoys ____."`. The blank should be filled in by one of
+the hobbies you added earlier.
 
 ```javascript
 // your answer here
