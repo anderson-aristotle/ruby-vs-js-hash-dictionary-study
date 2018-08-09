@@ -28,10 +28,12 @@ material. Instead, digest what you've read and repeat it in your own voice.
   - [Object - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
   - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
-## Creating a Hash in Ruby
+## Ruby
 
-Create a hash named `dale` in Ruby with the following key-value pairs.  The keys
-should be symbols.
+### Creating a Hash
+
+Create a hash named `dale` with the following key-value pairs. The keys should
+be symbols.
 
 | Key | Value |
 | --- | --- |
@@ -43,7 +45,7 @@ should be symbols.
 # your answer here
 ```
 
-## Adding Hash Keys in Ruby
+### Adding Hash Keys
 
 Add a key named `middle_name` to `dale` with the string `"Alvin"` as the value.
 Add another key, `hobbies`, to `dale` with an array as the value. The array
@@ -53,7 +55,7 @@ should contain at least two strings of your choice. The keys should be symbols.
 #your answer here
 ```
 
-## Removing Hash Keys in Ruby
+### Removing Hash Keys
 
 Remove the `middle_name` key from `dale`.
 
@@ -61,7 +63,7 @@ Remove the `middle_name` key from `dale`.
 # your answer here
 ```
 
-## Modifying Hash Values in Ruby
+### Modifying Hash Values
 
 Modify `dale` so that the value of the key `last_name` is `"Gribble"` and the
 value of the key `first_name` is `"Dale"`.
@@ -70,7 +72,7 @@ value of the key `first_name` is `"Dale"`.
 # your answer here
 ```
 
-## Ruby Hash Methods
+### Hash Methods
 
 Using Ruby's Hash methods, set a variable named `dale_keys` equal to all of
 `dale`'s actual keys. Additionally, set a variable named `dale_values` equal to
@@ -80,19 +82,22 @@ all of `dale`'s values.'
 # your answer here
 ```
 
-## Accessing Hash Properties and Values
+### Accessing Hash Properties and Values
 
-Using Hash methods and string interpolation in Ruby, create a string using
+Using Hash methods and string interpolation, create a string using
 `dale` that equals `"My name is Dale Gribble and I'm an exterminator that enjoys
 _____."`. The blank should be filled in with one of the hobbies that was added previously.
 
 ```ruby
 # your answer here
 ```
+<hr>
 
-## Creating a Dictionary in JavaScript
+## JavaScript
 
-Create a dictionary named `hank` in JavaScript with the following key-value
+### Creating a Dictionary
+
+Create a dictionary named `hank` with the following key-value
 pairs.
 
 | Key | Value |
@@ -105,17 +110,17 @@ pairs.
 // your answer here
 ```
 
-## Adding Dictionary Properties in JavaScript
+### Adding Dictionary Properties
 
-Add a property named `middleName` to `hank` with the string `"Rutherford"` as the
-value.  Add another property, `hobbies`, to `hank` with an array as the value.
-The array should contain at least two strings of your choice.
+Add a property named `middleName` to `hank` with the string `"Rutherford"` as
+the value. Add another property, `hobbies`, to `hank` with an array as the
+value. The array should contain at least two strings of your choice.
 
 ```javascript
 // your answer here
 ```
 
-## Removing Dictionary Properties in JavaScript
+### Removing Dictionary Properties
 
 Remove the `middleName` property from `hank`.
 
@@ -123,7 +128,7 @@ Remove the `middleName` property from `hank`.
 // your answer here
 ```
 
-## Modifying Dictionary Values in JavaScript
+### Modifying Dictionary Values
 
 Modify `hank` so that the value of the key `lastName` is `"Hill"` and the value
 of the key `firstName` is `"Hank"`.
@@ -132,7 +137,7 @@ of the key `firstName` is `"Hank"`.
 // your answer here
 ```
 
-## JavaScript Dictionary Methods
+### Dictionary Methods
 
 Using JavaScript's Array methods, set a variable named `hankKeys` that is equal
 to all of `hank`'s keys. Additionally, set a variable named `hankValues` that is
@@ -142,9 +147,9 @@ equal to all of `hanks`'s values.'
 // your answer here
 ```
 
-## Accessing Dictionary Properties and Values
+### Accessing Dictionary Properties and Values
 
-Using provided methods and template literals in JavaScript, create a string
+Using provided methods and template literals, create a string
 using `hank` that equals `"My name is Hank Hill and I'm a propane and propane
 accesories salesman that enjoys ____."`. The blank should be filled in by one of
 the hobbies you added earlier.
