@@ -91,7 +91,8 @@ _____."`. The blank should be filled in with one of the hobbies that was added p
 ```ruby
 # your answer here
 ```
-<hr>
+
+----
 
 ## JavaScript
 
