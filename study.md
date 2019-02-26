@@ -42,7 +42,7 @@ be symbols.
 | occupation | 'exterminator' |
 
 ```ruby
-# your answer here
+# dale = {last_name: 'gibble', first_name: 'dale', occupation: 'exterminator'}
 ```
 
 ### Adding Hash Keys
@@ -52,7 +52,8 @@ Add another key, `hobbies`, to `dale` with an array as the value. The array
 should contain at least two strings of your choice. The keys should be symbols.
 
 ```ruby
-#your answer here
+# dale[:middle_name] = 'Alvin'
+# dale[:hobbies] = ['1', '2']
 ```
 
 ### Removing Hash Keys
@@ -60,7 +61,7 @@ should contain at least two strings of your choice. The keys should be symbols.
 Remove the `middle_name` key from `dale`.
 
 ```ruby
-# your answer here
+# dale.delete(:middle_name)
 ```
 
 ### Modifying Hash Values
@@ -69,7 +70,8 @@ Modify `dale` so that the value of the key `last_name` is `"Gribble"` and the
 value of the key `first_name` is `"Dale"`.
 
 ```ruby
-# your answer here
+# dale[:last_name] = 'Gribble'
+# dale[:first_name] = 'Dale'
 ```
 
 ### Hash Methods
@@ -79,7 +81,8 @@ Using Ruby's Hash methods, set a variable named `dale_keys` equal to all of
 all of `dale`'s values.'
 
 ```ruby
-# your answer here
+# dale_keys = dale.each_key
+# dales_values = dale.each_value
 ```
 
 ### Accessing Hash Properties and Values
@@ -89,7 +92,8 @@ Using Hash methods and string interpolation, create a string using
 _____."`. The blank should be filled in with one of the hobbies that was added previously.
 
 ```ruby
-# your answer here
+# `My name is #{dale[:first_name]} #{dale[:last_name]} and I'm an #{occupation} that enjoys
+# {dale[:hobbies[0]]}`
 ```
 
 ----
@@ -108,7 +112,11 @@ pairs.
 | occupation | 'propane and propane accessories salesman' |
 
 ```javascript
-// your answer here
+// const hank = {
+//   lastName: 'hill',
+//   firstName: 'hank',
+//   occupation: 'propane and propane accessories salesman'
+// }
 ```
 
 ### Adding Dictionary Properties
@@ -118,7 +126,10 @@ the value. Add another property, `hobbies`, to `hank` with an array as the
 value. The array should contain at least two strings of your choice.
 
 ```javascript
-// your answer here
+// dict.push({
+//   middleName: 'Rutherford',
+//   hobbies: ['1', '2']
+// })
 ```
 
 ### Removing Dictionary Properties
@@ -126,7 +137,7 @@ value. The array should contain at least two strings of your choice.
 Remove the `middleName` property from `hank`.
 
 ```javascript
-// your answer here
+// delete.hank['midddleName']
 ```
 
 ### Modifying Dictionary Values
@@ -135,7 +146,8 @@ Modify `hank` so that the value of the key `lastName` is `"Hill"` and the value
 of the key `firstName` is `"Hank"`.
 
 ```javascript
-// your answer here
+// hank['lastName'] = 'Hill'
+// hank['firstName'] = 'Hank'
 ```
 
 ### Dictionary Methods
@@ -145,7 +157,8 @@ to all of `hank`'s keys. Additionally, set a variable named `hankValues` that is
 equal to all of `hanks`'s values.'
 
 ```javascript
-// your answer here
+// const hankKeys = hank.keys()
+// const hankValues = hank.values()
 ```
 
 ### Accessing Dictionary Properties and Values
